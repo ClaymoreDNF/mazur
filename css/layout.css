@@ -636,7 +636,7 @@ ul.features li:nth-child(even) { }
    margin: 0 6px;
    display: inline-block;
    zoom: 1;
-   *display: inline;
+   display: inline;
 }
 .flex-control-paging li a {
    width: 12px;
@@ -729,8 +729,8 @@ ul.features li:nth-child(even) { }
 footer {
    padding-top: 84px;
    margin-bottom: 60px;
-   color: #3c4753;
-   font-size: 13px;
+   color: #1a599c;
+   font-size: 15px;
    line-height: 24px;
    position: relative;   
 }
